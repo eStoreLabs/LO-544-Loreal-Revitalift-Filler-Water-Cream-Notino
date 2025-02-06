@@ -1,0 +1,837 @@
+{
+    "keys": [
+        "loreal-paris/revitalift-filler-wypelniajcy-krem-na-dzie-przeciw-starzeniu-si/"
+    ],
+    "type": 0,
+    "language": "pl-PL",
+    "campaign": "Revitalift Filler Water Cream",
+    "rpc": "LOR09879",
+    "dateOnSaleFrom": null,
+    "owner": "MatusC",
+    "contents": [
+        {
+            "name": "Revitalift Filler Water Cream",
+            "key": "",
+            "isApproved": false,
+            "rich": {
+                "components": [
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV.jpg",
+                                "element": "img",
+                                "alt": "Revitalift Filler Water Cream. Ujędrniający krem do twarzy",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV-mobile.jpg",
+                                "element": "img",
+                                "alt": "Revitalift Filler Water Cream. Ujędrniający krem do twarzy",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "",
+                                "element": "h6",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-02-A.jpg",
+                                "element": "img",
+                                "alt": "wygładza",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "",
+                                "element": "h6",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-02-B.jpg",
+                                "element": "img",
+                                "alt": "intensywnie nawilża",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "",
+                                "element": "h6",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-02-C.jpg",
+                                "element": "img",
+                                "alt": "redukuje zmarszczki",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "Formuła bogata w\u00a0składniki aktywne. dla\u00a0intensywnego nawilżenia",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "700",
+                                    "marginBottom": "25px",
+                                    "marginLeft": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "ODPOWIEDNIA DLA: każdego rodzaju skóry, nawet tej wrażliwej. NA TWOJEJ SKÓRZE: krem o lekkiej, aksamitnej konsystencji. Szybko się wchłania i nie zostawia tłustej warstwy na skórze. Nie zatyka porów.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#000000",
+                                    "lineHeight": "2",
+                                    "marginLeft": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-03.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px",
+                            "marginTop": "0",
+                            "marginBottom": "25px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "składniki aktywne",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "700",
+                                    "marginBottom": "25px",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "Mikrocząsteczkowy kwas hialuronowy - wspomaga ujędrnienie i przywrócenie skórze objętości. Mikrowypełniający kwas hialuronowy - głębiej wnika w\u00a0naskórek, wspomagając redukcję drobnych linii i\u00a0zmarszczek. Ceramidy - wspierają funkcje bariery ochronnej skóry i utrzymanie nawilżenia. Niacynamid - ma właściwości łagodzące i wspiera redukcję przebarwień. Gliceryna - wspiera długotrwałe nawilżenie skóry.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#000000",
+                                    "lineHeight": "2",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-04.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-05.jpg",
+                                "element": "img",
+                                "alt": "Dlaczego kwas hialuronowy i ceramidy są tak istotne w codziennej pielęgnacji?",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-05-mobile.jpg",
+                                "element": "img",
+                                "alt": "Dlaczego kwas hialuronowy i ceramidy są tak istotne w codziennej pielęgnacji?",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "Widoczne rezultaty potwierdzone klinicznie",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "700",
+                                    "marginBottom": "25px",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "Natychmiast: skóra jest intensywnie nawilżona (+52%) i\u00a0wygląda na wygładzoną**. Po 2 tygodniach: zmarszczki są zmniejszone u 100% badanych kobiet*",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#000000",
+                                    "lineHeight": "2",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-07.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "INNOWACYJNE OPAKOWANIE AIRLESS",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "700",
+                                    "marginBottom": "25px",
+                                    "marginLeft": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "PRECYZYJNE DOZOWANIE - pompka w opakowaniu airless dozuje idealną porcję kosmetyku, a dodatkowo pozwala wydobyć z opakowania nawet ostatnie resztki kremu, co gwarantuje maksymalne wykorzystanie produktu. HIGIENA -\u00a0opakowanie ogranicza dostęp tlenu do kosmetyku, dzięki czemu zabezpiecza go przed rozwojem mikroorganizmów, utlenianiem formuły oraz przenoszeniem bakterii z\u00a0opuszków.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#000000",
+                                    "lineHeight": "2",
+                                    "marginLeft": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-06.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "3 kroki do nawilżonej i wygładzonej skóry",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "700",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "20px",
+                            "marginBottom": "25px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "1. Revitalift Filler Serum pod\u00a0oczy",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "700",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "warstwa pielęgnująca okolice oczu",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "-10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-08-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "2. Revitalift Filler Serum",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "700",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "warstwa wygładzająca",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "-10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-08-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "3. Revitalift Filler Water-Cream",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "700",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "warstwa utrzymująca nawilżenie",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "-10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-08-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px",
+                            "marginBottom": "20px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "",
+                                "element": "h6",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-09-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "",
+                                "element": "h6",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-09-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "",
+                                "element": "h6",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-09-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Poznaj inne produkt",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "marginTop": "0",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "l’orÉal paris revitalift filler",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "700",
+                                    "marginTop": "-20px",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "40px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "i stwórz swoją rutynę",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "marginTop": "-20px",
+                                    "textAlign": "center",
+                                    "marginBottom": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-10.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px",
+                            "paddingBottom": "0"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "*Ocena kliniczna, 85 kobiety, 2 tygodnie.",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "12px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "50px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "**Test instrumentalny, 24 kobiety.",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "12px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center",
+                                    "marginTop": "-20px",
+                                    "marginBottom": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "***Wnioski i wyniki z badania zostały zweryfikowane przez zewnętrzny panel dermatologów sponsorowany przez L’Oréal.",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "12px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center",
+                                    "marginTop": "-20px",
+                                    "marginBottom": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginBottom": "25px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
