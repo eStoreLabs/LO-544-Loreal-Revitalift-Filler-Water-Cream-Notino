@@ -637,7 +637,7 @@
                         "data": [
                             {
                                 "name": "columnOneTitle",
-                                "value": "Poznaj inne produkt",
+                                "value": "Poznaj inne produkty",
                                 "element": "h2",
                                 "properties": {
                                     "fontSize": "30px",
