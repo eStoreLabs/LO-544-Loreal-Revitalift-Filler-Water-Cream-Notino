@@ -248,18 +248,89 @@
                         }
                     },
                     {
-                        "name": "keyVisual",
+                        "name": "textComponent",
                         "data": [
                             {
-                                "name": "asset",
-                                "value": "MOD-05.jpg",
-                                "element": "img",
-                                "alt": "Dlaczego kwas hialuronowy i ceramidy są tak istotne w codziennej pielęgnacji?",
-                                "properties": {}
+                                "name": "columnOneTitle",
+                                "value": "DLACZEGO KWAS HIALURONOWY i ceramidy",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "44px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "są TAK ISTOTNe W codziennej PIELĘGNACJI?",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "44px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "700",
+                                    "textAlign": "center",
+                                    "marginTop":"-25px",
+                                    "marginBottom":"20px"
+                                }
                             }
                         ],
                         "properties": {
-                            "padding": "35px 35px"
+                            "marginTop": "20px",
+                            "marginBottom": "0"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    }, 
+                    {
+                        "name": "sixtyFortyBasicText",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "Kwas hialuronowy jest jednym z podstawowych składników aktywnych każdej pielęgnacji. Występuje on fizjologicznie w naszej skórze od urodzenia, ale niestety, już od 25 roku życia jego poziom spada. Główne działanie kwasu hialuronowego to ogromna zdolność wiązania wody w skórze właściwej. Przy systematycznym stosowaniu dba o prawidłowe nawilżenie skóry, przywraca jej blask i redukuje zmarszczki\u00a0– ",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "19px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "400",
+                                    "marginBottom": "0"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "mówi dr Ivana Stanković,  dermatolog, ekspert marki L’Oréal Paris",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "19px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "700",
+                                    "marginTop":"-20px",
+                                    "marginBottom": "0"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "persona.png",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "padding": "25px 35px",
+                            "marginBottom": "20px"
                         },
                         "breakpoints": {
                             "xs": false,
@@ -269,18 +340,71 @@
                         }
                     },
                     {
+                        "name": "sixtyFortyBasicText",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "Kwas hialuronowy jest jednym z podstawowych składników aktywnych każdej pielęgnacji. Występuje on fizjologicznie w naszej skórze od urodzenia, ale niestety, już od 25 roku życia jego poziom spada. Główne działanie kwasu hialuronowego to ogromna zdolność wiązania wody w skórze właściwej. Przy systematycznym stosowaniu dba o prawidłowe nawilżenie skóry, przywraca jej blask i redukuje zmarszczki – ",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "19px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "400",
+                                    "textAlign":"center",
+                                    "marginBottom": "0"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "mówi dr Ivana Stanković,  dermatolog, ekspert marki L’Oréal Paris",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "19px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "700",
+                                    "marginTop":"-20px",
+                                    "textAlign":"center",
+                                    "marginBottom": "0"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {
+                                    "height":"0"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
                         "name": "keyVisual",
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "MOD-05-mobile.jpg",
+                                "value": "persona-mobile.png",
                                 "element": "img",
-                                "alt": "Dlaczego kwas hialuronowy i ceramidy są tak istotne w codziennej pielęgnacji?",
+                                "alt": "",
                                 "properties": {}
                             }
                         ],
                         "properties": {
-                            "padding": "15px 10px"
+                            "padding": "0 10px",
+                            "marginTop":"15px",
+                            "marginBottom": "20px"
                         },
                         "breakpoints": {
                             "xs": true,
@@ -788,7 +912,9 @@
                                 "properties": {}
                             }
                         ],
-                        "properties": {},
+                        "properties": {
+                            "padding":"0 35px"
+                        },
                         "breakpoints": {
                             "xs": true,
                             "sm": true,
